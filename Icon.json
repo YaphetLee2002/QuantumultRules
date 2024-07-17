@@ -3,2804 +3,1048 @@
     "description": "@YaphetLee2002的自用Quantumult X 图标集",
     "icons": [
         {
-            "name": "fengqun",
-            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Fengqun.png"
+            "name": "samoa",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/samoa.png"
         },
         {
-            "name": "flowercloud",
-            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/FlowerCloud.png"
+            "name": "kenya",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/kenya.png"
         },
         {
-            "name": "fmz200",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/author/fmz200-01.png"
+            "name": "afghanistan",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/afghanistan.png"
         },
         {
-            "name": "fmz200",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/author/fmz200-02.png"
+            "name": "russia",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/russia.png"
         },
         {
-            "name": "fmz200",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/author/fmz200-03.png"
+            "name": "guatemala",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/guatemala.png"
         },
         {
-            "name": "fmz200",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/author/fmz200-04.png"
+            "name": "bolivia",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/bolivia.png"
         },
         {
-            "name": "hot_search",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/others/hot_search.png"
+            "name": "st-lucia",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/st-lucia.png"
         },
         {
-            "name": "brd",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/airport/brd.png"
+            "name": "ghana",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/ghana.png"
         },
         {
-            "name": "EFCloud",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/airport/EFCloud.png"
+            "name": "hungary",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/hungary.png"
         },
         {
-            "name": "YiYuan",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/airport/YiYuan.png"
+            "name": "democratic-republic-of-congo",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/democratic-republic-of-congo.png"
         },
         {
-            "name": "bigbus",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/airport/bigbus.png"
+            "name": "ceuta",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/ceuta.png"
         },
         {
-            "name": "Bigbus-02",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/airport/Bigbus-02.png"
+            "name": "iceland",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/iceland.png"
         },
         {
-            "name": "efc",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/airport/efc.png"
+            "name": "south-sudan",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/south-sudan.png"
         },
         {
-            "name": "EdNovas",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/airport/EdNovas.png"
+            "name": "poland",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/poland.png"
         },
         {
-            "name": "1Password",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/1Password.png"
+            "name": "china",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/china.png"
         },
         {
-            "name": "AdblockPlus",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/AdblockPlus.png"
+            "name": "argentina",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/argentina.png"
         },
         {
-            "name": "AdGuard",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/AdGuard.png"
+            "name": "cape-verde",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/cape-verde.png"
         },
         {
-            "name": "AdGuard",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/AdGuard_01.png"
+            "name": "kazakhstan",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/kazakhstan.png"
         },
         {
-            "name": "AdGuard",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/AdGuard_02.png"
+            "name": "guernsey",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/guernsey.png"
         },
         {
-            "name": "Ads",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Ads.png"
+            "name": "venezuela",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/venezuela.png"
         },
         {
-            "name": "AliYunDrive",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/AliYunDrive.png"
+            "name": "liberia",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/liberia.png"
         },
         {
-            "name": "Apple",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Apple.png"
+            "name": "colombia",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/colombia.png"
         },
         {
-            "name": "Apple_AppleStore",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Apple_AppleStore.png"
+            "name": "british-indian-ocean-territory",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/british-indian-ocean-territory.png"
         },
         {
-            "name": "Apple_Arcade",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Apple_Arcade.png"
+            "name": "iran",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/iran.png"
         },
         {
-            "name": "Apple_Books",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Apple_Books.png"
+            "name": "namibia",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/namibia.png"
         },
         {
-            "name": "Apple_Classic",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Apple_Classic.png"
+            "name": "nato",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/nato.png"
         },
         {
-            "name": "Apple_FaceTime",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Apple_FaceTime.png"
+            "name": "tanzania",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/tanzania.png"
         },
         {
-            "name": "Apple_GameCenter",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Apple_GameCenter.png"
+            "name": "flag",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/flag.png"
         },
         {
-            "name": "Apple_Home",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Apple_Home.png"
+            "name": "jamaica",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/jamaica.png"
         },
         {
-            "name": "Apple_iCloud",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Apple_iCloud.png"
+            "name": "saudi-arabia",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/saudi-arabia.png"
         },
         {
-            "name": "Apple_iTunesStore",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Apple_iTunesStore.png"
+            "name": "zambia",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/zambia.png"
         },
         {
-            "name": "Apple_Mail",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Apple_Mail.png"
+            "name": "cambodia",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/cambodia.png"
         },
         {
-            "name": "Apple_Messages",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Apple_Messages.png"
+            "name": "tibet",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/tibet.png"
         },
         {
-            "name": "Apple_Original",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Apple_Original.png"
+            "name": "djibouti",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/djibouti.png"
         },
         {
-            "name": "Apple_Safari",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Apple_Safari.png"
+            "name": "angola",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/angola.png"
         },
         {
-            "name": "Apple_SpringLoaded",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Apple_SpringLoaded.png"
+            "name": "lesotho",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/lesotho.png"
         },
         {
-            "name": "Apple_Wallet",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Apple_Wallet.png"
+            "name": "scotland",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/scotland.png"
         },
         {
-            "name": "Apple_Weather",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Apple_Weather.png"
+            "name": "sint-maarten",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/sint-maarten.png"
         },
         {
-            "name": "AppleMusic",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/AppleMusic.png"
+            "name": "tunisia",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/tunisia.png"
         },
         {
-            "name": "AppleNews",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/AppleNews.png"
+            "name": "ukraine",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/ukraine.png"
         },
         {
-            "name": "Aws",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Aws.png"
+            "name": "guinea",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/guinea.png"
         },
         {
-            "name": "Azure",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Azure.png"
+            "name": "aland-islands",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/aland-islands.png"
         },
         {
-            "name": "Baidu",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Baidu.png"
+            "name": "estonia",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/estonia.png"
         },
         {
-            "name": "BetaHub",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/BetaHub.png"
+            "name": "sao-tome-and-prince",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/sao-tome-and-prince.png"
         },
         {
-            "name": "BigBen",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/BigBen.png"
+            "name": "laos",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/laos.png"
         },
         {
-            "name": "BiliBili",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/BiliBili.png"
+            "name": "kyrgyzstan",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/kyrgyzstan.png"
         },
         {
-            "name": "BiliBili_01",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/BiliBili_01.png"
+            "name": "tajikistan",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/tajikistan.png"
         },
         {
-            "name": "BiliBiliTV",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/BiliBiliTV.png"
+            "name": "cuba",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/cuba.png"
         },
         {
-            "name": "BlinkLoad",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/BlinkLoad.png"
+            "name": "kosovo",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/kosovo.png"
         },
         {
-            "name": "BlinkLoad_01",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/BlinkLoad_01.png"
+            "name": "cocos-island",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/cocos-island.png"
         },
         {
-            "name": "BoxJS",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/BoxJS.png"
+            "name": "greenland",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/greenland.png"
         },
         {
-            "name": "BrandenburgGate",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/BrandenburgGate.png"
+            "name": "algeria",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/algeria.png"
         },
         {
-            "name": "cainiao",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/cainiao.png"
+            "name": "united-nations",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/united-nations.png"
         },
         {
-            "name": "CaiYun",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/CaiYun.png"
+            "name": "curacao",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/curacao.png"
         },
         {
-            "name": "Category_Balloon",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Category_Balloon.png"
+            "name": "aruba",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/aruba.png"
         },
         {
-            "name": "Category_Bike",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Category_Bike.png"
+            "name": "somaliland",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/somaliland.png"
         },
         {
-            "name": "Category_Book",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Category_Book.png"
+            "name": "rwanda",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/rwanda.png"
         },
         {
-            "name": "Category_Briefcase",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Category_Briefcase.png"
+            "name": "cook-islands",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/cook-islands.png"
         },
         {
-            "name": "Category_Calculator",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Category_Calculator.png"
+            "name": "honduras",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/honduras.png"
         },
         {
-            "name": "Category_Catalog",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Category_Catalog.png"
+            "name": "armenia",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/armenia.png"
         },
         {
-            "name": "Category_Food",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Category_Food.png"
+            "name": "kiribati",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/kiribati.png"
         },
         {
-            "name": "Category_Globe",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Category_Globe.png"
+            "name": "niue",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/niue.png"
         },
         {
-            "name": "Category_Lifestyle",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Category_Lifestyle.png"
+            "name": "british-virgin-islands",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/british-virgin-islands.png"
         },
         {
-            "name": "Category_Magazine",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Category_Magazine.png"
-        },
-        {
-            "name": "Category_Medical",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Category_Medical.png"
-        },
-        {
-            "name": "Category_Music",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Category_Music.png"
-        },
-        {
-            "name": "Category_Navigation",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Category_Navigation.png"
-        },
-        {
-            "name": "Category_Networking",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Category_Networking.png"
-        },
-        {
-            "name": "Category_News",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Category_News.png"
-        },
-        {
-            "name": "Category_Photo",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Category_Photo.png"
-        },
-        {
-            "name": "Category_Pig",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Category_Pig.png"
-        },
-        {
-            "name": "Category_Polygon",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Category_Polygon.png"
-        },
-        {
-            "name": "Category_Popcorn",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Category_Popcorn.png"
-        },
-        {
-            "name": "Category_Productivity",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Category_Productivity.png"
-        },
-        {
-            "name": "Category_Research",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Category_Research.png"
-        },
-        {
-            "name": "Category_Shopping",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Category_Shopping.png"
-        },
-        {
-            "name": "Category_Sports",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Category_Sports.png"
-        },
-        {
-            "name": "Category_Travel",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Category_Travel.png"
-        },
-        {
-            "name": "Category_Weather",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Category_Weather.png"
-        },
-        {
-            "name": "ChiangKai-shekMemorialHall",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/ChiangKai-shekMemorialHall.png"
-        },
-        {
-            "name": "ChristTheRedeemer",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/ChristTheRedeemer.png"
-        },
-        {
-            "name": "Cisco",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Cisco.png"
-        },
-        {
-            "name": "Cloudflare",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Cloudflare.png"
-        },
-        {
-            "name": "Cloudflare",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/CloudflareWARP.png"
-        },
-        {
-            "name": "CNTower",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/CNTower.png"
-        },
-        {
-            "name": "Colosseum",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Colosseum.png"
-        },
-        {
-            "name": "DegYax_01",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/DegYax_01.png"
-        },
-        {
-            "name": "DegYax_02",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/DegYax_02.png"
-        },
-        {
-            "name": "DegYax_03",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/DegYax_03.png"
-        },
-        {
-            "name": "DegYax_04",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/DegYax_04.png"
-        },
-        {
-            "name": "didi",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/didi.png"
-        },
-        {
-            "name": "Discord",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Discord.png"
-        },
-        {
-            "name": "DisneyPlus",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/DisneyPlus.png"
-        },
-        {
-            "name": "Dots",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Dots.png"
-        },
-        {
-            "name": "douyu",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/douyu.png"
-        },
-        {
-            "name": "Download",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Download.png"
-        },
-        {
-            "name": "EiffelTower",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/EiffelTower.png"
-        },
-        {
-            "name": "FallBack",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/FallBack.png"
-        },
-        {
-            "name": "FastCloud",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/FastCloud.png"
-        },
-        {
-            "name": "Feizhu",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Feizhu.png"
-        },
-        {
-            "name": "FileBall",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/FileBall.png"
-        },
-        {
-            "name": "FishChips",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/FishChips.png"
-        },
-        {
-            "name": "FishChips_01",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/FishChips_01.png"
-        },
-        {
-            "name": "FishChips_02",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/FishChips_02.png"
-        },
-        {
-            "name": "FishChips_03",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/FishChips_03.png"
-        },
-        {
-            "name": "FishPort",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/FishPort.png"
-        },
-        {
-            "name": "GaodeMap",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/GaodeMap.jpg"
-        },
-        {
-            "name": "Gcp",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Gcp.png"
-        },
-        {
-            "name": "GiffGaff",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/GiffGaff.jpeg"
-        },
-        {
-            "name": "Github",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/github_00.png"
-        },
-        {
-            "name": "Github",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/github_01.png"
-        },
-        {
-            "name": "GitHub",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/github_02.png"
-        },
-        {
-            "name": "GitHub",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/github_03.png"
-        },
-        {
-            "name": "GitHub",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/github_04.png"
-        },
-        {
-            "name": "GitHub",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/github_05.png"
-        },
-        {
-            "name": "GitHub",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/github_06.png"
-        },
-        {
-            "name": "GitHub",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/github_07.png"
-        },
-        {
-            "name": "GitHub",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/github_08.png"
-        },
-        {
-            "name": "GitHub",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/github_09.png"
-        },
-        {
-            "name": "GitHub",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/github_10.png"
-        },
-        {
-            "name": "GitHub",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/github_11.png"
-        },
-        {
-            "name": "GitHub",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/github_12.png"
-        },
-        {
-            "name": "GitHub",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/github_13.png"
-        },
-        {
-            "name": "GitHub",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/github_14.png"
-        },
-        {
-            "name": "GitHub",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/github_15.png"
-        },
-        {
-            "name": "GitHub",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/github_16.png"
-        },
-        {
-            "name": "GitHub",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/github_17.png"
-        },
-        {
-            "name": "GitHub",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/github_18.png"
-        },
-        {
-            "name": "GlaDos",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/GlaDos.png"
-        },
-        {
-            "name": "Google",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Google.png"
-        },
-        {
-            "name": "GoogleBard",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/GoogleBard.png"
-        },
-        {
-            "name": "HeartRate",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/HeartRate.png"
-        },
-        {
-            "name": "Hulu",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Hulu.png"
-        },
-        {
-            "name": "infiniPort",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/infiniPort.png"
-        },
-        {
-            "name": "ipInfo",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/ipInfo.png"
-        },
-        {
-            "name": "iqZone",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/iqZone.png"
-        },
-        {
-            "name": "iRingo",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/iRingo.png"
-        },
-        {
-            "name": "jingdong",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/jd.png"
-        },
-        {
-            "name": "JingFuGong",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/JingFuGong.png"
-        },
-        {
-            "name": "KakaoTalk",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/KakaoTalk.png"
-        },
-        {
-            "name": "kuaishou",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/kuaishou.png"
-        },
-        {
-            "name": "LastPass",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/LastPass.png"
-        },
-        {
-            "name": "LeaningTowerOfPisa",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/LeaningTowerOfPisa.png"
-        },
-        {
-            "name": "Lianhezaobao",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Lianhezaobao.jpeg"
-        },
-        {
-            "name": "Line",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Line_01.png"
-        },
-        {
-            "name": "Line",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Line_02.png"
-        },
-        {
-            "name": "Line",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Line_03.png"
-        },
-        {
-            "name": "Line",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Line_04.png"
-        },
-        {
-            "name": "LoadBalance",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/LoadBalance.png"
-        },
-        {
-            "name": "LondonEye",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/LondonEye.png"
-        },
-        {
-            "name": "Loon",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Loon.png"
-        },
-        {
-            "name": "Loon_01",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Loon_01.png"
-        },
-        {
-            "name": "Loon_02",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Loon_02.png"
-        },
-        {
-            "name": "Loon_03",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Loon_03.png"
-        },
-        {
-            "name": "Loon_04",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Loon_04.png"
-        },
-        {
-            "name": "Loon_05",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Loon_05.png"
-        },
-        {
-            "name": "Loon_06",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Loon_06.png"
-        },
-        {
-            "name": "Loon_07",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Loon_07.png"
-        },
-        {
-            "name": "Loon_08",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Loon_08.png"
-        },
-        {
-            "name": "Loon_09",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Loon_09.png"
-        },
-        {
-            "name": "Loon_10",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Loon_10.png"
-        },
-        {
-            "name": "Loon_11",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Loon_11.png"
-        },
-        {
-            "name": "Loon_12",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Loon_12.png"
-        },
-        {
-            "name": "Loon_13",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Loon_13.png"
-        },
-        {
-            "name": "Loon_16",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Loon_16.png"
-        },
-        {
-            "name": "Loon_18",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Loon_18.png"
-        },
-        {
-            "name": "Loon_19",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Loon_19.png"
-        },
-        {
-            "name": "Loon_20",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Loon_20.png"
-        },
-        {
-            "name": "Loon_21",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Loon_21.png"
-        },
-        {
-            "name": "Loon_22",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Loon_22.png"
-        },
-        {
-            "name": "Loon_23",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Loon_23.png"
-        },
-        {
-            "name": "Loon_24",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Loon_24.png"
-        },
-        {
-            "name": "Loon_25",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Loon_25.png"
-        },
-        {
-            "name": "Loon_26",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Loon_26.png"
-        },
-        {
-            "name": "Loon_27",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Loon_27.png"
-        },
-        {
-            "name": "Loon_28",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Loon_28.png"
-        },
-        {
-            "name": "Loon_29",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Loon_29.png"
-        },
-        {
-            "name": "macat",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/macat.png"
-        },
-        {
-            "name": "meituan",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/meituan.png"
-        },
-        {
-            "name": "Merlion",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Merlion.png"
-        },
-        {
-            "name": "Message",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Message.png"
-        },
-        {
-            "name": "meta",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/meta.png"
-        },
-        {
-            "name": "Microsoft",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Microsoft.png"
-        },
-        {
-            "name": "Movist",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Movist.png"
-        },
-        {
-            "name": "mixuebingcheng",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/mxbc.png"
-        },
-        {
-            "name": "NationalMonument",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/NationalMonument.png"
-        },
-        {
-            "name": "netflix",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/netflix.png"
-        },
-        {
-            "name": "ObeliscoDeBuenosAires",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/ObeliscoDeBuenosAires.png"
-        },
-        {
-            "name": "Office",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Office.png"
-        },
-        {
-            "name": "oil",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/oil.png"
-        },
-        {
-            "name": "OpenAI",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/OpenAI.png"
-        },
-        {
-            "name": "OpenAI_01",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/OpenAI_01.png"
-        },
-        {
-            "name": "oracle",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/oracle.png"
-        },
-        {
-            "name": "PetronasTowers",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/PetronasTowers.png"
-        },
-        {
-            "name": "pinduoduo",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/pinduoduo.png"
-        },
-        {
-            "name": "PlayStation",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/PlayStation.png"
-        },
-        {
-            "name": "PrimeVideo",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/PrimeVideo.png"
-        },
-        {
-            "name": "ql",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/ql.png"
-        },
-        {
-            "name": "ql_logo",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/ql_logo.png"
-        },
-        {
-            "name": "QQMusic",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/QQMusic.png"
-        },
-        {
-            "name": "QuarkDrive",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/QuarkDrive.png"
-        },
-        {
-            "name": "relay",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/relay.png"
-        },
-        {
-            "name": "Riot",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Riot.png"
-        },
-        {
-            "name": "RiotGames",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/RiotGames.png"
-        },
-        {
-            "name": "RiotGames",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/RiotGames_02.png"
-        },
-        {
-            "name": "RuinsOfSaintPauls",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/RuinsOfSaintPauls.png"
-        },
-        {
-            "name": "SaintBasilsCathedral",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/SaintBasilsCathedral.png"
-        },
-        {
-            "name": "Script-Hub",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Script-Hub.png"
-        },
-        {
-            "name": "select",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/select.png"
-        },
-        {
-            "name": "Sensei",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Sensei.png"
-        },
-        {
-            "name": "shadowrocket",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/shadowrocket.png"
-        },
-        {
-            "name": "shadowrocket-01",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/shadowrocket-01.png"
-        },
-        {
-            "name": "Surge",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Surge.png"
-        },
-        {
-            "name": "Surge_01",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Surge_01.png"
-        },
-        {
-            "name": "Stash",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Stash.png"
-        },
-        {
-            "name": "Stash_01",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Stash_01.png"
-        },
-        {
-            "name": "Stash_02",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Stash_02.png"
-        },
-        {
-            "name": "StatueOfLiberty",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/StatueOfLiberty.png"
-        },
-        {
-            "name": "StoneHenge",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/StoneHenge.png"
-        },
-        {
-            "name": "SubStore",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/SubStore.png"
-        },
-        {
-            "name": "SubStore-01",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/SubStore-01.png"
-        },
-        {
-            "name": "SubStore-02",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/SubStore-02.png"
-        },
-        {
-            "name": "sheep",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/sheep.png"
-        },
-        {
-            "name": "Shortcuts",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Shortcuts.png"
-        },
-        {
-            "name": "skylines",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/skylines.png"
-        },
-        {
-            "name": "smzdm",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/smzdm.png"
-        },
-        {
-            "name": "Spotify",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/spotify.png"
-        },
-        {
-            "name": "Spotify",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/spotify.png"
-        },
-        {
-            "name": "Spotify",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/spotify(green).png"
-        },
-        {
-            "name": "Spotify",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/erdongchanyo/Spotify.png"
-        },
-        {
-            "name": "Spotify",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/erdongchanyo/Spotify_05.png"
-        },
-        {
-            "name": "switch",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/switch.png"
-        },
-        {
-            "name": "SydneyOperaHouse",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/SydneyOperaHouse.png"
-        },
-        {
-            "name": "Snapchat",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Snapchat.png"
-        },
-        {
-            "name": "Snapchat",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Snapchat_02.png"
-        },
-        {
-            "name": "Soul",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Soul.png"
-        },
-        {
-            "name": "taipei101",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/taipei101.png"
-        },
-        {
-            "name": "tajmahal",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/tajmahal.png"
-        },
-        {
-            "name": "telegram",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/telegram.png"
-        },
-        {
-            "name": "telegram",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Telegram_02.png"
-        },
-        {
-            "name": "tencent",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/tencent.png"
-        },
-        {
-            "name": "tencentcloud",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/tencentcloud.png"
-        },
-        {
-            "name": "texon",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/texon.png"
-        },
-        {
-            "name": "texonhead",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/texonhead.png"
-        },
-        {
-            "name": "texonslab",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/texonslab.png"
-        },
-        {
-            "name": "TheFederalAssembly",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/TheFederalAssembly.png"
-        },
-        {
-            "name": "TheGreatWall",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/TheGreatWall.png"
-        },
-        {
-            "name": "TheWhiteHouse",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/TheWhiteHouse.png"
-        },
-        {
-            "name": "Thunder",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Thunder.png"
-        },
-        {
-            "name": "tiktok",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/tiktok.png"
-        },
-        {
-            "name": "tinder",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/tinder.png"
-        },
-        {
-            "name": "torii",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/torii.png"
-        },
-        {
-            "name": "twitch",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/twitch.png"
-        },
-        {
-            "name": "twitter",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/twitter.png"
-        },
-        {
-            "name": "twitter",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/twitter.png"
-        },
-        {
-            "name": "twitter(1)",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/twitter(1).png"
-        },
-        {
-            "name": "Twitter",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/erdongchanyo/Twitter.png"
-        },
-        {
-            "name": "X",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/X.png"
-        },
-        {
-            "name": "Udn",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Udn.png"
-        },
-        {
-            "name": "UrlTest",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/UrlTest.png"
-        },
-        {
-            "name": "v2tun",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/v2tun.png"
-        },
-        {
-            "name": "Viu",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Viu.png"
-        },
-        {
-            "name": "warp",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/warp.png"
-        },
-        {
-            "name": "warpcomet",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/warpcomet.png"
-        },
-        {
-            "name": "wechat",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/wechat.png"
-        },
-        {
-            "name": "wechat",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/chxm1023/wechat.png"
-        },
-        {
-            "name": "WeiboTalk",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/WeiboTalk.png"
-        },
-        {
-            "name": "Weibo",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Weibo-00.png"
-        },
-        {
-            "name": "Weibo-01",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Weibo-01.png"
-        },
-        {
-            "name": "Weibo-02",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Weibo-02.png"
-        },
-        {
-            "name": "Weibo-03",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Weibo-03.png"
-        },
-        {
-            "name": "Weibo-04",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Weibo-04.png"
-        },
-        {
-            "name": "Weibo-05",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Weibo-05.png"
-        },
-        {
-            "name": "Weibo-06",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Weibo-06.png"
-        },
-        {
-            "name": "Weibo-07",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Weibo-07.png"
-        },
-        {
-            "name": "Weibo-08",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Weibo-08.png"
-        },
-        {
-            "name": "Weibo-09",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Weibo-09.png"
-        },
-        {
-            "name": "Weibo-10",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Weibo-10.png"
-        },
-        {
-            "name": "Weibo-11",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Weibo-11.png"
-        },
-        {
-            "name": "Weibo-12",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Weibo-12.png"
-        },
-        {
-            "name": "Weibo-13",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Weibo-13.png"
-        },
-        {
-            "name": "Weibo-14",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Weibo-14.png"
-        },
-        {
-            "name": "Weibo-15",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Weibo-15.png"
-        },
-        {
-            "name": "Weibo-16",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Weibo-16.png"
-        },
-        {
-            "name": "Weibo-17",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Weibo-17.png"
-        },
-        {
-            "name": "Weibo-18",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Weibo-18.png"
-        },
-        {
-            "name": "Weibo-19",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Weibo-19.png"
-        },
-        {
-            "name": "Weibo-20",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Weibo-20.png"
-        },
-        {
-            "name": "Weibo-21",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Weibo-21.png"
-        },
-        {
-            "name": "Weibo-22",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Weibo-22.png"
-        },
-        {
-            "name": "Weibo-23",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Weibo-23.png"
-        },
-        {
-            "name": "Weibo-24",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Weibo-24.png"
-        },
-        {
-            "name": "Weibo-25",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Weibo-25.png"
-        },
-        {
-            "name": "Weibo-26",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Weibo-26.png"
-        },
-        {
-            "name": "Weibo-27",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Weibo-27.png"
-        },
-        {
-            "name": "Weibo-28",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Weibo-28.png"
-        },
-        {
-            "name": "Weibo-29",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Weibo-29.png"
-        },
-        {
-            "name": "Weibo-30",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Weibo-30.png"
-        },
-        {
-            "name": "Weibo-31",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Weibo-31.png"
-        },
-        {
-            "name": "Weibo-32",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Weibo-32.png"
-        },
-        {
-            "name": "Weibo-33",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Weibo-33.png"
-        },
-        {
-            "name": "Weibo-34",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Weibo-34.png"
-        },
-        {
-            "name": "Weibo-35",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Weibo-35.png"
-        },
-        {
-            "name": "Weibo-36",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Weibo-36.png"
-        },
-        {
-            "name": "Weibo-37",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Weibo-37.png"
-        },
-        {
-            "name": "Weibo-38",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Weibo-38.png"
-        },
-        {
-            "name": "Weibo",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Weibo-39.png"
-        },
-        {
-            "name": "Weibo",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Weibo-40.png"
-        },
-        {
-            "name": "Weibo",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Weibo-41.png"
-        },
-        {
-            "name": "Weibo",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Weibo-42.png"
-        },
-        {
-            "name": "Weibo",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Weibo-43.png"
-        },
-        {
-            "name": "WhatsApp",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/WhatsApp.png"
-        },
-        {
-            "name": "whatsinstash",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/whatsinstash.png"
-        },
-        {
-            "name": "White",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/White.png"
-        },
-        {
-            "name": "wireguard",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/wireguard.png"
-        },
-        {
-            "name": "wangzherongyao",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/wangzherongyao.png"
-        },
-        {
-            "name": "xbox",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/xbox.png"
-        },
-        {
-            "name": "xianyu",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/xianyu.png"
-        },
-        {
-            "name": "ximalaya",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/ximalaya.png"
-        },
-        {
-            "name": "xxyx",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/xxyx.jpeg"
-        },
-        {
-            "name": "xxyx_01",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/xxyx_01.jpeg"
-        },
-        {
-            "name": "YouTubeMusic",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/YouTubeMusic.png"
-        },
-        {
-            "name": "youtube",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/youtube.png"
-        },
-        {
-            "name": "Zalo",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Zalo.png"
-        },
-        {
-            "name": "zhihu",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/zhihu.png"
-        },
-        {
-            "name": "ccbLife",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/ccbLife.jpg"
-        },
-        {
-            "name": "tuhuyangche",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/tuhuyangche.png"
-        },
-        {
-            "name": "3K",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/author/3K.png"
-        },
-        {
-            "name": "Baby",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/author/Baby.png"
-        },
-        {
-            "name": "CaoXiaoMan",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/author/CaoXiaoMan.png"
-        },
-        {
-            "name": "KeLi",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/author/KeLi.png"
-        },
-        {
-            "name": "keywos",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/author/keywos.png"
-        },
-        {
-            "name": "LiWenQing",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/author/LiWenQing.png"
-        },
-        {
-            "name": "NaiSi_01",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/author/NaiSi_01.png"
-        },
-        {
-            "name": "nanhe",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/author/nanhe.png"
-        },
-        {
-            "name": "Walalala",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/author/Walalala.png"
-        },
-        {
-            "name": "YiNanan77",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/author/YiNanan77.png"
-        },
-        {
-            "name": "ZenMoFeiShi",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/author/ZenMoFeiShi.png"
-        },
-        {
-            "name": "zhangjun",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/author/zhangjun.png"
-        },
-        {
-            "name": "GetSomeCats",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/group/GetSomeCats.png"
-        },
-        {
-            "name": "GetSomeFries",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/group/GetSomeFries.png"
-        },
-        {
-            "name": "iBeta",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/group/iBeta.png"
-        },
-        {
-            "name": "哆啦A梦",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/chxm1023/dlam.png"
-        },
-        {
-            "name": "Quantumult_X",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/chxm1023/Quantumult_X.png"
-        },
-        {
-            "name": "Quantumult_X_1",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/chxm1023/Quantumult_X_1.png"
-        },
-        {
-            "name": "Quantumult_X_2",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/chxm1023/Quantumult_X_2.png"
-        },
-        {
-            "name": "Quantumult_X_3",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/chxm1023/Quantumult_X_3.png"
-        },
-        {
-            "name": "Quantumult_X_4",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/chxm1023/Quantumult_X_4.png"
-        },
-        {
-            "name": "Quantumult_X_5",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/chxm1023/Quantumult_X_5.png"
-        },
-        {
-            "name": "Quantumult_X_6",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/chxm1023/Quantumult_X_6.png"
-        },
-        {
-            "name": "Quantumult_X_7",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/chxm1023/Quantumult_X_7.png"
-        },
-        {
-            "name": "Quantumult_X",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Quantumult_X.png"
-        },
-        {
-            "name": "Quantumult_X-02",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Quantumult_X-02.png"
-        },
-        {
-            "name": "Loon1",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/chxm1023/Loon_1.png"
-        },
-        {
-            "name": "Loon2",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/chxm1023/Loon_2.png"
-        },
-        {
-            "name": "Loon3",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/chxm1023/Loon_3.png"
-        },
-        {
-            "name": "Loon4",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/chxm1023/Loon_4.png"
-        },
-        {
-            "name": "Loon5",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/chxm1023/Loon_5.png"
-        },
-        {
-            "name": "Loon6",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/chxm1023/Loon_6.png"
-        },
-        {
-            "name": "Loon7",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/chxm1023/Loon_7.png"
-        },
-        {
-            "name": "Loon8",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/chxm1023/Loon_8.png"
-        },
-        {
-            "name": "Loon9",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/chxm1023/Loon_9.png"
-        },
-        {
-            "name": "Loon10",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/chxm1023/Loon_10.png"
-        },
-        {
-            "name": "Loon11",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/chxm1023/Loon_11.png"
-        },
-        {
-            "name": "stash1",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/chxm1023/stash1.png"
-        },
-        {
-            "name": "stash2",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/chxm1023/stash2.png"
-        },
-        {
-            "name": "boxjs",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/chxm1023/box.png"
-        },
-        {
-            "name": "Google Voice",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/chxm1023/GV.PNG"
-        },
-        {
-            "name": "xbox",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/chxm1023/xbox.png"
-        },
-        {
-            "name": "weibo",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/chxm1023/weibo.png"
-        },
-        {
-            "name": "腾讯视频",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/chxm1023/txvideo.png"
-        },
-        {
-            "name": "Microsoft",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/chxm1023/microsoft.png"
-        },
-        {
-            "name": "iCloud",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/chxm1023/iCloud.png"
-        },
-        {
-            "name": "Apple",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/chxm1023/Apple.png"
-        },
-        {
-            "name": "ChatGPT1",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/chxm1023/ChatGPT1.png"
-        },
-        {
-            "name": "ChatGPT2",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/chxm1023/ChatGPT2.png"
-        },
-        {
-            "name": "ChatGPT3",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/chxm1023/ChatGPT3.png"
-        },
-        {
-            "name": "ChatGPT4",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/chxm1023/ChatGPT4.png"
-        },
-        {
-            "name": "ChatGPT5",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/chxm1023/ChatGPT5.png"
-        },
-        {
-            "name": "ChatGPT6",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/chxm1023/ChatGPT6.png"
-        },
-        {
-            "name": "AppStore",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/chxm1023/AppStore.png"
-        },
-        {
-            "name": "Safari",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/chxm1023/Safari.png"
-        },
-        {
-            "name": "substore",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/chxm1023/substore.png"
-        },
-        {
-            "name": "baidu",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/chxm1023/baidu.png"
-        },
-        {
-            "name": "zhihu",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/chxm1023/zhihu.png"
-        },
-        {
-            "name": "悟空",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/chxm1023/wk.png"
-        },
-        {
-            "name": "TikTok",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/chxm1023/TikTok.png"
-        },
-        {
-            "name": "TikTok_1",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/chxm1023/TikTok_1.png"
-        },
-        {
-            "name": "TikTok_2",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/chxm1023/TikTok_2.png"
-        },
-        {
-            "name": "小红书",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/chxm1023/xiaohongshu.png"
-        },
-        {
-            "name": "smbc",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/chxm1023/smbc.png"
-        },
-        {
-            "name": "tiktok",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/tiktok.png"
-        },
-        {
-            "name": "tiktok(1)",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/tiktok(1).png"
-        },
-        {
-            "name": "tiktok(2)",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/tiktok((2).png"
-        },
-        {
-            "name": "chatgpt",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/ChatGPT-green.png"
-        },
-        {
-            "name": "ChatGPT",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/ChatGPT.png"
-        },
-        {
-            "name": "onedrive",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/OneDrive.png"
-        },
-        {
-            "name": "shutiao",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/shutiao.png"
-        },
-        {
-            "name": "Youtube",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/Youtube.png"
-        },
-        {
-            "name": "youtube(1)",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/youtube(1).png"
-        },
-        {
-            "name": "youtube(2)",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/youtube(2).png"
-        },
-        {
-            "name": "youtube(3)",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/youtube(3).png"
-        },
-        {
-            "name": "microsoft",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/microsoft.png"
-        },
-        {
-            "name": "microsoft(1)",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/microsoft(1).png"
-        },
-        {
-            "name": "microsoft(2)",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/microsoft(2).png"
-        },
-        {
-            "name": "netflix",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/netflix.png"
-        },
-        {
-            "name": "netflix(red)",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/netflix(red).png"
-        },
-        {
-            "name": "netflix(old)",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/netflix(old).png"
-        },
-        {
-            "name": "disney(blue)",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/disney(blue).png"
-        },
-        {
-            "name": "disney(black)",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/disney(black).png"
-        },
-        {
-            "name": "Hongkong",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/Hongkong.png"
-        },
-        {
-            "name": "Hongkong(1)",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/Hongkong(1).png"
+            "name": "south-korea",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/south-korea.png"
         },
         {
             "name": "taiwan",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/taiwan.png"
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/taiwan.png"
         },
         {
-            "name": "taiwan(1).png",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/taiwan(1).png"
+            "name": "virgin-islands",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/virgin-islands.png"
         },
         {
-            "name": "taiwan(2)",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/taiwan(2).png"
+            "name": "guam",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/guam.png"
         },
         {
-            "name": "Korea",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/Korea.png"
+            "name": "east-timor",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/east-timor.png"
         },
         {
-            "name": "singapore(2)",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/singapore(2).png"
+            "name": "puerto-rico",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/puerto-rico.png"
         },
         {
-            "name": "singapore(1).png",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/singapore(1).png"
+            "name": "rapa-nui",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/rapa-nui.png"
         },
         {
-            "name": "Japan",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/Japan.png"
+            "name": "republic-of-the-congo",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/republic-of-the-congo.png"
         },
         {
-            "name": "zl-icon-jp-flag",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/zl-icon-jp-flag.png"
+            "name": "turkey",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/turkey.png"
         },
         {
-            "name": "US",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/US.png"
+            "name": "monaco",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/monaco.png"
         },
         {
-            "name": "US(1)",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/US(1).png"
+            "name": "french-polynesia",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/french-polynesia.png"
         },
         {
-            "name": "telegram",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/telegram.png"
+            "name": "australia",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/australia.png"
         },
         {
-            "name": "telegram(1)",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/telegram(1).png"
+            "name": "sierra-leone",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/sierra-leone.png"
         },
         {
-            "name": "telegram(blue1)",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/telegram(blue1).png"
+            "name": "cameroon",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/cameroon.png"
         },
         {
-            "name": "HBO",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/HBO.png"
+            "name": "nepal",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/nepal.png"
         },
         {
-            "name": "bilibili(1)",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/bilibili(1).png"
+            "name": "balearic-islands",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/balearic-islands.png"
         },
         {
-            "name": "bilibili(2)",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/bilibili(2).png"
+            "name": "england",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/england.png"
         },
         {
-            "name": "bilibili(3)",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/bilibili(3).png"
+            "name": "gibraltar",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/gibraltar.png"
         },
         {
-            "name": "bilibili(4)",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/bilibili(4).png"
+            "name": "isle-of-man",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/isle-of-man.png"
         },
         {
-            "name": "apple",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/apple.png"
+            "name": "czech-republic",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/czech-republic.png"
         },
         {
-            "name": "apple(1)",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/apple(1).png"
+            "name": "sweden",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/sweden.png"
         },
         {
-            "name": "speedtest",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/speedtest.png"
+            "name": "burundi",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/burundi.png"
         },
         {
-            "name": "google",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/google.png"
+            "name": "seychelles",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/seychelles.png"
         },
         {
-            "name": "google(1)",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/google(1).png"
+            "name": "moldova",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/moldova.png"
         },
         {
-            "name": "paypal",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/paypal.png"
+            "name": "belgium",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/belgium.png"
         },
         {
-            "name": "paypal(1)",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/paypal(1).png"
+            "name": "pitcairn-islands",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/pitcairn-islands.png"
         },
         {
-            "name": "social-paypal",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/social-paypal.png"
+            "name": "brazil",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/brazil.png"
         },
         {
-            "name": "direct",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/direct.png"
+            "name": "mozambique",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/mozambique.png"
         },
         {
-            "name": "direct(1)",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/direct(1).png"
+            "name": "benin",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/benin.png"
         },
         {
-            "name": "blacklist",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/blacklist.png"
+            "name": "greece",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/greece.png"
         },
         {
-            "name": "blacklist(1)",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/blacklist(1).png"
+            "name": "andorra",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/andorra.png"
         },
         {
-            "name": "weibo",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/weibo.png"
+            "name": "british-columbia",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/british-columbia.png"
         },
         {
-            "name": "weibo_01.png",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/weibo_01.png"
+            "name": "ecuador",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/ecuador.png"
         },
         {
-            "name": "Googlevoice",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/Googlevoice.png"
+            "name": "gabon",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/gabon.png"
         },
         {
-            "name": "Googlevoice(black1)",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/Googlevoice(black1).png"
+            "name": "libya",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/libya.png"
         },
         {
-            "name": "facebook",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/facebook.png"
+            "name": "sicily",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/sicily.png"
         },
         {
-            "name": "facebook(1).png",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/facebook(1).png"
+            "name": "syria",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/syria.png"
         },
         {
-            "name": "facebook(2).png",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/facebook(2).png"
+            "name": "burkina-faso",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/burkina-faso.png"
         },
         {
-            "name": "quanqiu",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/quanqiu.png"
+            "name": "sahrawi-arab-democratic-republic",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/sahrawi-arab-democratic-republic.png"
         },
         {
-            "name": "quanqiu(1).png",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/quanqiu(1).png"
+            "name": "marshall-island",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/marshall-island.png"
         },
         {
-            "name": "quanqiu(2).png",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/quanqiu(2).png"
+            "name": "tonga",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/tonga.png"
         },
         {
-            "name": "quanqiu(3).png",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/quanqiu(3).png"
+            "name": "montserrat",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/montserrat.png"
         },
         {
-            "name": "ad",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/ad.png"
+            "name": "sint-eustatius",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/sint-eustatius.png"
         },
         {
-            "name": "ad(2)",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/ad(2).png"
+            "name": "christmas-island",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/christmas-island.png"
         },
         {
-            "name": "ad(3)",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/ad(3).png"
+            "name": "montenegro",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/montenegro.png"
         },
         {
-            "name": "ad(4)",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/ad(4).png"
+            "name": "bermuda",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/bermuda.png"
         },
         {
-            "name": "ad(5)",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/ad(5).png"
+            "name": "grenada",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/grenada.png"
         },
         {
-            "name": "ad(6)",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/ad(6).png"
+            "name": "madagascar",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/madagascar.png"
         },
         {
-            "name": "ad(7)",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/ad(7).png"
+            "name": "northern-cyprus",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/northern-cyprus.png"
         },
         {
-            "name": "instagram",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/instagram.png"
+            "name": "north-korea",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/north-korea.png"
         },
         {
-            "name": "instagram(1)",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/instagram(1).png"
+            "name": "senegal",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/senegal.png"
         },
         {
-            "name": "instagram(2)",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/instagram(2).png"
+            "name": "oman",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/oman.png"
         },
         {
-            "name": "lightning",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/lightning.png"
+            "name": "malaysia",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/malaysia.png"
         },
         {
-            "name": "lightning(1)",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/lightning(1).png"
+            "name": "papua-new-guinea",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/papua-new-guinea.png"
         },
         {
-            "name": "lightning(2)",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/lightning(2).png"
+            "name": "comoros",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/comoros.png"
         },
         {
-            "name": "bing",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/bing.png"
+            "name": "panama",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/panama.png"
         },
         {
-            "name": "bing(1)",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/bing(1).png"
+            "name": "costa-rica",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/costa-rica.png"
         },
         {
-            "name": "bing(2)",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/bing(2).png"
+            "name": "switzerland",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/switzerland.png"
         },
         {
-            "name": "bing(3)",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/bing(3).png"
+            "name": "corsica",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/corsica.png"
         },
         {
-            "name": "whatsapp",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/whatsapp.png"
+            "name": "equatorial-guinea",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/equatorial-guinea.png"
         },
         {
-            "name": "whatsapp",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/whatsapp_01.png"
+            "name": "tuvalu-1",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/tuvalu-1.png"
         },
         {
-            "name": "whatsapp(2)",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/whatsapp(2).png"
+            "name": "saint-kitts-and-nevis",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/saint-kitts-and-nevis.png"
         },
         {
-            "name": "game",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/game.png"
+            "name": "nigeria",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/nigeria.png"
         },
         {
-            "name": "game(1)",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/game(1).png"
+            "name": "trinidad-and-tobago",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/trinidad-and-tobago.png"
         },
         {
-            "name": "steam",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/steam.png"
+            "name": "canary-islands",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/canary-islands.png"
         },
         {
-            "name": "steam(1)",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/steam(1).png"
+            "name": "dominican-republic",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/dominican-republic.png"
         },
         {
-            "name": "rocket",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/rocket.png"
+            "name": "melilla",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/melilla.png"
         },
         {
-            "name": "rocket(1)",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/rocket(1).png"
+            "name": "transnistria",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/transnistria.png"
         },
         {
-            "name": "rocket(2)",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/rocket(2).png"
+            "name": "azores-islands",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/azores-islands.png"
         },
         {
-            "name": "rocket(3)",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/rocket(3).png"
+            "name": "bosnia-and-herzegovina",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/bosnia-and-herzegovina.png"
         },
         {
-            "name": "mail",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/mail.png"
+            "name": "micronesia",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/micronesia.png"
         },
         {
-            "name": "mail(1)",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/mail(1).png"
+            "name": "anguilla",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/anguilla.png"
         },
         {
-            "name": "mail(2)",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/mail(2).png"
+            "name": "republic-of-macedonia",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/republic-of-macedonia.png"
         },
         {
-            "name": "mail(3)",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/mail(3).png"
+            "name": "canada",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/canada.png"
         },
         {
-            "name": "emby",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/emby.png"
+            "name": "cayman-islands",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/cayman-islands.png"
         },
         {
-            "name": "emby(1)",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/emby(1).png"
+            "name": "united-kingdom",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/united-kingdom.png"
         },
         {
-            "name": "ip",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/ip.png"
+            "name": "yemen",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/yemen.png"
         },
         {
-            "name": "play",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/play.png"
+            "name": "gambia",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/gambia.png"
         },
         {
-            "name": "play(1)",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/play(1).png"
+            "name": "madeira",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/madeira.png"
         },
         {
-            "name": "play(2)",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lige47/play(2).png"
+            "name": "togo",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/togo.png"
         },
         {
-            "name": "EDG",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lpl/144px/EDG.png"
+            "name": "tokelau",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/tokelau.png"
         },
         {
-            "name": "TT",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lpl/144px/TT.png"
+            "name": "pakistan",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/pakistan.png"
         },
         {
-            "name": "UP",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lpl/144px/UP.png"
+            "name": "hong-kong",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/hong-kong.png"
         },
         {
-            "name": "OMG",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lpl/144px/OMG.png"
+            "name": "solomon-islands",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/solomon-islands.png"
         },
         {
-            "name": "LGD",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lpl/144px/LGD.png"
+            "name": "bulgaria",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/bulgaria.png"
         },
         {
-            "name": "RA",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lpl/144px/RA.png"
+            "name": "mauritania",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/mauritania.png"
         },
         {
-            "name": "IG",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lpl/144px/IG.png"
+            "name": "qatar",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/qatar.png"
         },
         {
-            "name": "RNG",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lpl/144px/RNG.png"
+            "name": "azerbaijan",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/azerbaijan.png"
         },
         {
-            "name": "JDG",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lpl/144px/JDG.png"
+            "name": "germany",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/germany.png"
         },
         {
-            "name": "FPX",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lpl/144px/FPX.png"
+            "name": "bhutan",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/bhutan.png"
         },
         {
-            "name": "AL",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lpl/144px/AL.png"
+            "name": "united-arab-emirates",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/united-arab-emirates.png"
         },
         {
-            "name": "BLG",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lpl/144px/BLG.png"
+            "name": "maldives",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/maldives.png"
         },
         {
-            "name": "TES",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lpl/144px/TES.png"
+            "name": "somalia",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/somalia.png"
         },
         {
-            "name": "WBG",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lpl/144px/WBG.png"
+            "name": "galapagos-islands",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/galapagos-islands.png"
         },
         {
-            "name": "WE",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lpl/144px/WE.png"
+            "name": "antigua-and-barbuda",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/antigua-and-barbuda.png"
         },
         {
-            "name": "V5",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lpl/144px/V5.png"
+            "name": "austria",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/austria.png"
         },
         {
-            "name": "LNG",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/lpl/144px/LNG.png"
+            "name": "uganda",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/uganda.png"
         },
         {
-            "name": "144",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/texon/144.png"
+            "name": "guinea-bissau",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/guinea-bissau.png"
         },
         {
-            "name": "CadetBlue",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/texon/CadetBlue.png"
+            "name": "sudan",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/sudan.png"
         },
         {
-            "name": "Crimson",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/texon/Crimson.png"
+            "name": "macao",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/macao.png"
         },
         {
-            "name": "Crocodile_with_glasses",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/texon/Crocodile_with_glasses.png"
+            "name": "latvia",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/latvia.png"
         },
         {
-            "name": "DarkGoldenRod",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/texon/DarkGoldenRod.png"
+            "name": "israel",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/israel.png"
         },
         {
-            "name": "DarkOliveGreen",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/texon/DarkOliveGreen.png"
+            "name": "haiti",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/haiti.png"
         },
         {
-            "name": "DarkSlateBlue",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/texon/DarkSlateBlue.png"
+            "name": "turkmenistan",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/turkmenistan.png"
         },
         {
-            "name": "Gainsboro",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/texon/Gainsboro.png"
+            "name": "nicaragua",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/nicaragua.png"
         },
         {
-            "name": "PaleVioletRed",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/texon/PaleVioletRed.png"
+            "name": "south-africa",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/south-africa.png"
         },
         {
-            "name": "SlateGray",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/texon/SlateGray.png"
+            "name": "martinique",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/martinique.png"
         },
         {
-            "name": "Tomato",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/texon/Tomato.png"
+            "name": "myanmar",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/myanmar.png"
         },
         {
-            "name": "black_Crocodile",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/texon/black_Crocodile.png"
+            "name": "portugal",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/portugal.png"
         },
         {
-            "name": "black_dinosaur",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/texon/black_dinosaur.png"
+            "name": "mauritius",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/mauritius.png"
         },
         {
-            "name": "texontv",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/texon/texontv.png"
+            "name": "central-african-republic",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/central-african-republic.png"
         },
         {
-            "name": "1111",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/1111.png"
+            "name": "saba-island",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/saba-island.png"
         },
         {
-            "name": "11Pshare",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/11Pshare.png"
+            "name": "tuvalu",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/tuvalu.png"
         },
         {
-            "name": "2020",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/2020.png"
+            "name": "spain",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/spain.png"
         },
         {
-            "name": "23Studio",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/23Studio.png"
+            "name": "basque-country",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/basque-country.png"
         },
         {
-            "name": "404",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/404.png"
+            "name": "paraguay",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/paraguay.png"
         },
         {
-            "name": "ALiYun",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/ALiYun.png"
+            "name": "luxembourg",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/luxembourg.png"
         },
         {
-            "name": "AcEmby",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/AcEmby.png"
+            "name": "bahrain",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/bahrain.png"
         },
         {
-            "name": "AcEmby1",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/AcEmby1.png"
+            "name": "mongolia",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/mongolia.png"
         },
         {
-            "name": "Acg",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/Acg.png"
+            "name": "american-samoa",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/american-samoa.png"
         },
         {
-            "name": "Acg1",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/Acg1.png"
+            "name": "suriname",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/suriname.png"
         },
         {
-            "name": "Alist",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/Alist.png"
+            "name": "mali",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/mali.png"
         },
         {
-            "name": "AnimeHome",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/AnimeHome.png"
+            "name": "serbia",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/serbia.png"
         },
         {
-            "name": "Atvii",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/Atvii.png"
+            "name": "bangladesh",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/bangladesh.png"
         },
         {
-            "name": "BaiDuYun",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/BaiDuYun.png"
+            "name": "dominica",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/dominica.png"
         },
         {
-            "name": "BaiPiaoWang",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/BaiPiaoWang.png"
+            "name": "san-marino",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/san-marino.png"
         },
         {
-            "name": "Bdd",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/Bdd.png"
+            "name": "france",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/france.png"
         },
         {
-            "name": "Bdd1",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/Bdd1.png"
+            "name": "thailand",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/thailand.png"
         },
         {
-            "name": "BestEmby",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/BestEmby.png"
+            "name": "kuwait",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/kuwait.png"
         },
         {
-            "name": "BestEmby1",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/BestEmby1.png"
+            "name": "zimbabwe",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/zimbabwe.png"
         },
         {
-            "name": "Bigbus",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/Bigbus.png"
+            "name": "italy",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/italy.png"
         },
         {
-            "name": "BlueSea",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/BlueSea.png"
+            "name": "ossetia",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/ossetia.png"
         },
         {
-            "name": "BlueSeaEmby",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/BlueSeaEmby.png"
+            "name": "new-zealand",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/new-zealand.png"
         },
         {
-            "name": "BoYinYuan",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/BoYinYuan.png"
+            "name": "brunei",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/brunei.png"
         },
         {
-            "name": "BuGeiKan",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/BuGeiKan.png"
+            "name": "liechtenstein",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/liechtenstein.png"
         },
         {
-            "name": "Captain-z",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/Captain-z.png"
+            "name": "falkland-islands",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/falkland-islands.png"
         },
         {
-            "name": "Captain-z1",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/Captain-z1.png"
+            "name": "jersey",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/jersey.png"
         },
         {
-            "name": "CatFish",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/CatFish.png"
+            "name": "ivory-coast",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/ivory-coast.png"
         },
         {
-            "name": "CatFish1",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/CatFish1.png"
+            "name": "chad",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/chad.png"
         },
         {
-            "name": "CcEmby",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/CcEmby.png"
+            "name": "eritrea",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/eritrea.png"
         },
         {
-            "name": "CharonTV",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/CharonTV.png"
+            "name": "palau",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/palau.png"
         },
         {
-            "name": "Cola",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/Cola.png"
+            "name": "denmark",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/denmark.png"
         },
         {
-            "name": "CrossGreatWall",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/CrossGreatWall.png"
+            "name": "uk",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/uk.png"
         },
         {
-            "name": "Csn",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/Csn.png"
+            "name": "belarus",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/belarus.png"
         },
         {
-            "name": "Csn1",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/Csn1.png"
+            "name": "barbados",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/barbados.png"
         },
         {
-            "name": "Csn2",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/Csn2.png"
+            "name": "philippines",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/philippines.png"
         },
         {
-            "name": "CurlyMouse",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/CurlyMouse.png"
+            "name": "albania",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/albania.png"
         },
         {
-            "name": "CurlyMouse1",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/CurlyMouse1.png"
+            "name": "singapore",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/singapore.png"
         },
         {
-            "name": "DaHangHai",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/DaHangHai.png"
+            "name": "lebanon",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/lebanon.png"
         },
         {
-            "name": "Des",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/Des.png"
+            "name": "india",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/india.png"
         },
         {
-            "name": "Des1",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/Des1.png"
+            "name": "peru",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/peru.png"
         },
         {
-            "name": "Didiemby",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/Didiemby.png"
+            "name": "ethiopia",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/ethiopia.png"
         },
         {
-            "name": "Dv",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/Dv.png"
+            "name": "netherlands",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/netherlands.png"
         },
         {
-            "name": "DxzEmby",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/DxzEmby.png"
+            "name": "georgia",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/georgia.png"
         },
         {
-            "name": "ElevenPlus",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/ElevenPlus.png"
+            "name": "bahamas",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/bahamas.png"
         },
         {
-            "name": "Emby",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/Emby.png"
+            "name": "swaziland",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/swaziland.png"
         },
         {
-            "name": "Emby1",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/Emby1.png"
+            "name": "palestine",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/palestine.png"
         },
         {
-            "name": "EmbyClub",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/EmbyClub.png"
+            "name": "iraq",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/iraq.png"
         },
         {
-            "name": "EmbyClub1",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/EmbyClub1.png"
+            "name": "bonaire",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/bonaire.png"
         },
         {
-            "name": "EmbyHub",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/EmbyHub.png"
+            "name": "norfolk-island",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/norfolk-island.png"
         },
         {
-            "name": "EmbyHub1",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/EmbyHub1.png"
+            "name": "turks-and-caicos",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/turks-and-caicos.png"
         },
         {
-            "name": "EmbyHub2",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/EmbyHub2.png"
+            "name": "sri-lanka",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/sri-lanka.png"
         },
         {
-            "name": "EmbyX",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/EmbyX.png"
+            "name": "vanuatu",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/vanuatu.png"
         },
         {
-            "name": "Fangyt",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/Fangyt.png"
+            "name": "croatia",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/croatia.png"
         },
         {
-            "name": "Flareix",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/Flareix.png"
+            "name": "malawi",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/malawi.png"
         },
         {
-            "name": "Foxcoo",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/Foxcoo.png"
+            "name": "hawaii",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/hawaii.png"
         },
         {
-            "name": "FreeEmby",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/FreeEmby.png"
+            "name": "vatican-city",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/vatican-city.png"
         },
         {
-            "name": "Froghub",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/Froghub.png"
+            "name": "jordan",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/jordan.png"
         },
         {
-            "name": "GfwEmby",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/GfwEmby.png"
+            "name": "fiji",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/fiji.png"
         },
         {
-            "name": "GoogleDrive",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/GoogleDrive.png"
+            "name": "egypt",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/egypt.png"
         },
         {
-            "name": "Han",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/Han.png"
+            "name": "st-barts",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/st-barts.png"
         },
         {
-            "name": "Haoji",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/Haoji.png"
+            "name": "niger",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/niger.png"
         },
         {
-            "name": "HeiShan",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/HeiShan.png"
+            "name": "wales",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/wales.png"
         },
         {
-            "name": "HentaiHome",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/HentaiHome.png"
+            "name": "japan",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/japan.png"
         },
         {
-            "name": "HongChen",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/HongChen.png"
+            "name": "vietnam",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/vietnam.png"
         },
         {
-            "name": "Hxd",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/Hxd.png"
+            "name": "malta",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/malta.png"
         },
         {
-            "name": "Hxd1",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/Hxd1.png"
+            "name": "uruguay",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/uruguay.png"
         },
         {
-            "name": "Ikoumi",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/Ikoumi.png"
+            "name": "ireland",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/ireland.png"
         },
         {
-            "name": "Infinity",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/Infinity.png"
+            "name": "uzbekistan",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/uzbekistan.png"
         },
         {
-            "name": "Infuse",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/Infuse.png"
+            "name": "finland",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/finland.png"
         },
         {
-            "name": "Jellyfin",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/Jellyfin.png"
+            "name": "northern-mariana-islands",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/northern-mariana-islands.png"
         },
         {
-            "name": "JieNiGui",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/JieNiGui.png"
+            "name": "european-union",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/european-union.png"
         },
         {
-            "name": "JieSen",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/JieSen.png"
+            "name": "st-vincent-and-the-grenadines",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/st-vincent-and-the-grenadines.png"
         },
         {
-            "name": "Jikongjian",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/Jikongjian.png"
+            "name": "romania",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/romania.png"
         },
         {
-            "name": "JuDog",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/JuDog.png"
+            "name": "lithuania",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/lithuania.png"
         },
         {
-            "name": "Jyctv",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/Jyctv.png"
+            "name": "slovenia",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/slovenia.png"
         },
         {
-            "name": "KaiLu",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/KaiLu.png"
+            "name": "slovakia",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/slovakia.png"
         },
         {
-            "name": "Kevin",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/Kevin.png"
+            "name": "nauru",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/nauru.png"
         },
         {
-            "name": "KshtEmby",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/KshtEmby.png"
+            "name": "indonesia",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/indonesia.png"
         },
         {
-            "name": "LiangShan",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/LiangShan.png"
+            "name": "chile",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/chile.png"
         },
         {
-            "name": "LiangShan1",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/LiangShan1.png"
+            "name": "mexico",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/mexico.png"
         },
         {
-            "name": "Lion",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/Lion.png"
+            "name": "sardinia",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/sardinia.png"
         },
         {
-            "name": "Loniper",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/Loniper.png"
+            "name": "el-salvador",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/el-salvador.png"
         },
         {
-            "name": "Lvlian",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/Lvlian.png"
+            "name": "norway",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/norway.png"
         },
         {
-            "name": "Magic",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/Magic.png"
+            "name": "botswana",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/botswana.png"
         },
         {
-            "name": "Magpie",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/Magpie.png"
+            "name": "morocco",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/morocco.png"
         },
         {
-            "name": "Maliao",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/Maliao.png"
+            "name": "united-states",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/united-states.png"
         },
         {
-            "name": "MengMeng",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/MengMeng.png"
-        },
-        {
-            "name": "Midsummer",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/Midsummer.png"
-        },
-        {
-            "name": "Mildnes",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/Mildnes.png"
-        },
-        {
-            "name": "Mildnes1",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/Mildnes1.png"
-        },
-        {
-            "name": "Mildnes2",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/Mildnes2.png"
-        },
-        {
-            "name": "MisakaF",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/MisakaF.png"
-        },
-        {
-            "name": "Misty+",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/Misty+.png"
-        },
-        {
-            "name": "Misty",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/Misty.png"
-        },
-        {
-            "name": "Mjj",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/Mjj.png"
-        },
-        {
-            "name": "Moonlight",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/Moonlight.png"
-        },
-        {
-            "name": "More",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/More.png"
-        },
-        {
-            "name": "Mulgore",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/Mulgore.png"
-        },
-        {
-            "name": "Music",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/Music.png"
-        },
-        {
-            "name": "NakoNako",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/NakoNako.png"
-        },
-        {
-            "name": "Nas",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/Nas.png"
-        },
-        {
-            "name": "Nebula",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/Nebula.png"
-        },
-        {
-            "name": "Nebula1",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/Nebula1.png"
-        },
-        {
-            "name": "Nginx",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/Nginx.png"
-        },
-        {
-            "name": "Nijigen",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/Nijigen.png"
-        },
-        {
-            "name": "Nijigen1",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/Nijigen1.png"
-        },
-        {
-            "name": "Ninja",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/Ninja.png"
-        },
-        {
-            "name": "NmEmby",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/NmEmby.png"
-        },
-        {
-            "name": "Nplayer",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/Nplayer.png"
-        },
-        {
-            "name": "Nya",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/Nya.png"
-        },
-        {
-            "name": "O9o",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/O9o.png"
-        },
-        {
-            "name": "O9o1",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/O9o1.png"
-        },
-        {
-            "name": "Odyssey",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/Odyssey.png"
-        },
-        {
-            "name": "Ofuniverse",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/Ofuniverse.png"
-        },
-        {
-            "name": "OneDrive",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/OneDrive.png"
-        },
-        {
-            "name": "OnlyFans",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/OnlyFans.png"
-        },
-        {
-            "name": "Orange",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/Orange.png"
-        },
-        {
-            "name": "Orange1",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/Orange1.png"
-        },
-        {
-            "name": "PaoChe",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/PaoChe.png"
-        },
-        {
-            "name": "PaoChe1",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/PaoChe1.png"
-        },
-        {
-            "name": "PaoLuLe",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/PaoLuLe.png"
-        },
-        {
-            "name": "Paul",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/Paul.png"
-        },
-        {
-            "name": "Peach",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/Peach.png"
-        },
-        {
-            "name": "PikPak",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/PikPak.png"
-        },
-        {
-            "name": "PinYun",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/PinYun.png"
-        },
-        {
-            "name": "Plex",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/Plex.png"
-        },
-        {
-            "name": "Plex1",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/Plex1.png"
-        },
-        {
-            "name": "Plus",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/Plus.png"
-        },
-        {
-            "name": "Plusemby",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/Plusemby.png"
-        },
-        {
-            "name": "Polo",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/Polo.png"
-        },
-        {
-            "name": "Polo1",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/Polo1.png"
-        },
-        {
-            "name": "PornEmby",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/PornEmby.png"
-        },
-        {
-            "name": "Prpr",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/Prpr.png"
-        },
-        {
-            "name": "QqEmby",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/QqEmby.png"
-        },
-        {
-            "name": "Qunhui",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/Qunhui.png"
-        },
-        {
-            "name": "Sana",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/Sana.png"
-        },
-        {
-            "name": "Sela",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/Sela.png"
-        },
-        {
-            "name": "Seoul",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/Seoul.png"
-        },
-        {
-            "name": "SeseEmby",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/SeseEmby.png"
-        },
-        {
-            "name": "SeseEmby1",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/SeseEmby1.png"
-        },
-        {
-            "name": "ShenLan",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/ShenLan.png"
-        },
-        {
-            "name": "ShenLan1",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/ShenLan1.png"
-        },
-        {
-            "name": "ShenNong",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/ShenNong.png"
-        },
-        {
-            "name": "ShuiMu",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/ShuiMu.png"
-        },
-        {
-            "name": "ShuiMu1",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/ShuiMu1.png"
-        },
-        {
-            "name": "Singularity",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/Singularity.png"
-        },
-        {
-            "name": "StarCat",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/StarCat.png"
-        },
-        {
-            "name": "StudyFun",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/StudyFun.png"
-        },
-        {
-            "name": "StudyFun1",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/StudyFun1.png"
-        },
-        {
-            "name": "Tag",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/Tag.png"
-        },
-        {
-            "name": "Tank",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/Tank.png"
-        },
-        {
-            "name": "Teka",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/Teka.png"
-        },
-        {
-            "name": "Temby",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/Temby.png"
-        },
-        {
-            "name": "Temby1",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/Temby1.png"
-        },
-        {
-            "name": "Terminus",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/Terminus.png"
-        },
-        {
-            "name": "Texon",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/Texon.png"
-        },
-        {
-            "name": "Tls",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/Tls.png"
-        },
-        {
-            "name": "TreeDiagram",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/TreeDiagram.png"
-        },
-        {
-            "name": "V6",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/V6.png"
-        },
-        {
-            "name": "Video4lib",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/Video4lib.png"
-        },
-        {
-            "name": "Viper",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/Viper.png"
-        },
-        {
-            "name": "WangZhe",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/WangZhe.png"
-        },
-        {
-            "name": "Webdav",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/Webdav.png"
-        },
-        {
-            "name": "WeiWei",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/WeiWei.png"
-        },
-        {
-            "name": "XfEmby",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/XfEmby.png"
-        },
-        {
-            "name": "XfEmby1",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/XfEmby1.png"
-        },
-        {
-            "name": "XiangGangLiShiJie",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/XiangGangLiShiJie.png"
-        },
-        {
-            "name": "Xiaoyi",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/Xiaoyi.png"
-        },
-        {
-            "name": "Xltx",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/Xltx.png"
-        },
-        {
-            "name": "Xmss",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/Xmss.png"
-        },
-        {
-            "name": "Xop",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/Xop.png"
-        },
-        {
-            "name": "YeJiChang",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/YeJiChang.png"
-        },
-        {
-            "name": "YeJiFu",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/YeJiFu.png"
-        },
-        {
-            "name": "ZhiPianRen",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/ZhiPianRen.png"
-        },
-        {
-            "name": "ZhiPianRen1",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/ZhiPianRen1.png"
-        },
-        {
-            "name": "ZhiPianRen2",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/ZhiPianRen2.png"
-        },
-        {
-            "name": "Ziling",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/Ziling.png"
-        },
-        {
-            "name": "Zox",
-            "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/softlyx/Zox.png"
+            "name": "belize",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/belize.png"
         }
     ]
 }
