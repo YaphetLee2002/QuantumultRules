@@ -4,6 +4,14 @@
         {
             "name": "fengqun.png",
             "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/fengqun.png"
+        },
+        {
+            "name": "fengqun2.png",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/feng_qun.png"
+        },
+        {
+            "name": "fengqun3.png",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/fengqun2.png"
         }
     ],
     "description": "@YaphetLee2002的自用Quantumult X 图标集"
