@@ -3,6 +3,14 @@
     "description": "@YaphetLee2002的自用Quantumult X 图标集",
     "icons": [
         {
+            "name": "fengqun",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Fengqun.png"
+        },
+        {
+            "name": "flowercloud",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/FlowerCloud.png"
+        },
+        {
             "name": "samoa",
             "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/samoa.png"
         },
