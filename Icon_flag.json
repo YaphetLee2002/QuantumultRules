@@ -1,0 +1,796 @@
+{
+    "name": "Yaphet Icon",
+
+    "description": "@YaphetLee2002的自用Quantumult X 图标集",
+
+    "icons": [
+        {
+            "name": "TG",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/TG.png"
+        },
+        {
+            "name": "ME",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/ME.png"
+        },
+        {
+            "name": "LA",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/LA.png"
+        },
+        {
+            "name": "MR",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/MR.png"
+        },
+        {
+            "name": "NI",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/NI.png"
+        },
+        {
+            "name": "LV",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/LV.png"
+        },
+        {
+            "name": "OM",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/OM.png"
+        },
+        {
+            "name": "AF",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/AF.png"
+        },
+        {
+            "name": "CY",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/CY.png"
+        },
+        {
+            "name": "BJ",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/BJ.png"
+        },
+        {
+            "name": "CN",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/CN.png"
+        },
+        {
+            "name": "CO",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/CO.png"
+        },
+        {
+            "name": "AG",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/AG.png"
+        },
+        {
+            "name": "MD",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/MD.png"
+        },
+        {
+            "name": "ZM",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/ZM.png"
+        },
+        {
+            "name": "VN",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/VN.png"
+        },
+        {
+            "name": "TD",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/TD.png"
+        },
+        {
+            "name": "LB",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/LB.png"
+        },
+        {
+            "name": "LU",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/LU.png"
+        },
+        {
+            "name": "CZ",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/CZ.png"
+        },
+        {
+            "name": "AE",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/AE.png"
+        },
+        {
+            "name": "CM",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/CM.png"
+        },
+        {
+            "name": "BI",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/BI.png"
+        },
+        {
+            "name": "AR",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/AR.png"
+        },
+        {
+            "name": "BH",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/BH.png"
+        },
+        {
+            "name": "CL",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/CL.png"
+        },
+        {
+            "name": "AD",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/AD.png"
+        },
+        {
+            "name": "LT",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/LT.png"
+        },
+        {
+            "name": "MG",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/MG.png"
+        },
+        {
+            "name": "LC",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/LC.png"
+        },
+        {
+            "name": "TR",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/TR.png"
+        },
+        {
+            "name": "UA",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/UA.png"
+        },
+        {
+            "name": "TV",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/TV.png"
+        },
+        {
+            "name": "MT",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/MT.png"
+        },
+        {
+            "name": "NO",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/NO.png"
+        },
+        {
+            "name": "MC",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/MC.png"
+        },
+        {
+            "name": "CH",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/CH.png"
+        },
+        {
+            "name": "BZ",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/BZ.png"
+        },
+        {
+            "name": "CI",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/CI.png"
+        },
+        {
+            "name": "MU",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/MU.png"
+        },
+        {
+            "name": "US",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/US.png"
+        },
+        {
+            "name": "TW",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/TW.png"
+        },
+        {
+            "name": "YE",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/YE.png"
+        },
+        {
+            "name": "MW",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/MW.png"
+        },
+        {
+            "name": "NL",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/NL.png"
+        },
+        {
+            "name": "LS",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/LS.png"
+        },
+        {
+            "name": "BO",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/BO.png"
+        },
+        {
+            "name": "AT",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/AT.png"
+        },
+        {
+            "name": "BY",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/BY.png"
+        },
+        {
+            "name": "AU",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/AU.png"
+        },
+        {
+            "name": "BN",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/BN.png"
+        },
+        {
+            "name": "MA",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/MA.png"
+        },
+        {
+            "name": "NZ",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/NZ.png"
+        },
+        {
+            "name": "LR",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/LR.png"
+        },
+        {
+            "name": "MV",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/MV.png"
+        },
+        {
+            "name": "UG",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/UG.png"
+        },
+        {
+            "name": "TT",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/TT.png"
+        },
+        {
+            "name": "PL",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/PL.png"
+        },
+        {
+            "name": "RS",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/RS.png"
+        },
+        {
+            "name": "IN",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/IN.png"
+        },
+        {
+            "name": "GE",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/GE.png"
+        },
+        {
+            "name": "GR",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/GR.png"
+        },
+        {
+            "name": "GD",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/GD.png"
+        },
+        {
+            "name": "HK",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/HK.png"
+        },
+        {
+            "name": "KP",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/KP.png"
+        },
+        {
+            "name": "KG",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/KG.png"
+        },
+        {
+            "name": "SV",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/SV.png"
+        },
+        {
+            "name": "SA",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/SA.png"
+        },
+        {
+            "name": "SC",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/SC.png"
+        },
+        {
+            "name": "ST",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/ST.png"
+        },
+        {
+            "name": "KE",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/KE.png"
+        },
+        {
+            "name": "KR",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/KR.png"
+        },
+        {
+            "name": "DJ",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/DJ.png"
+        },
+        {
+            "name": "GQ",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/GQ.png"
+        },
+        {
+            "name": "DK",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/DK.png"
+        },
+        {
+            "name": "KS",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/KS.png"
+        },
+        {
+            "name": "IL",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/IL.png"
+        },
+        {
+            "name": "SB",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/SB.png"
+        },
+        {
+            "name": "PY",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/PY.png"
+        },
+        {
+            "name": "RU",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/RU.png"
+        },
+        {
+            "name": "KW",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/KW.png"
+        },
+        {
+            "name": "DO",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/DO.png"
+        },
+        {
+            "name": "GT",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/GT.png"
+        },
+        {
+            "name": "GB",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/GB.png"
+        },
+        {
+            "name": "SG",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/SG.png"
+        },
+        {
+            "name": "PK",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/PK.png"
+        },
+        {
+            "name": "SR",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/SR.png"
+        },
+        {
+            "name": "SE",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/SE.png"
+        },
+        {
+            "name": "JP",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/JP.png"
+        },
+        {
+            "name": "GW",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/GW.png"
+        },
+        {
+            "name": "EH",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/EH.png"
+        },
+        {
+            "name": "DZ",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/DZ.png"
+        },
+        {
+            "name": "GA",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/GA.png"
+        },
+        {
+            "name": "FR",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/FR.png"
+        },
+        {
+            "name": "DM",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/DM.png"
+        },
+        {
+            "name": "HN",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/HN.png"
+        },
+        {
+            "name": "SD",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/SD.png"
+        },
+        {
+            "name": "RW",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/RW.png"
+        },
+        {
+            "name": "PH",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/PH.png"
+        },
+        {
+            "name": "QA",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/QA.png"
+        },
+        {
+            "name": "PE",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/PE.png"
+        },
+        {
+            "name": "SI",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/SI.png"
+        },
+        {
+            "name": "HT",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/HT.png"
+        },
+        {
+            "name": "ES",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/ES.png"
+        },
+        {
+            "name": "GM",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/GM.png"
+        },
+        {
+            "name": "ER",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/ER.png"
+        },
+        {
+            "name": "FI",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/FI.png"
+        },
+        {
+            "name": "EE",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/EE.png"
+        },
+        {
+            "name": "KN",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/KN.png"
+        },
+        {
+            "name": "HU",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/HU.png"
+        },
+        {
+            "name": "IQ",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/IQ.png"
+        },
+        {
+            "name": "ID",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/ID.png"
+        },
+        {
+            "name": "IS",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/IS.png"
+        },
+        {
+            "name": "EG",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/EG.png"
+        },
+        {
+            "name": "FJ",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/FJ.png"
+        },
+        {
+            "name": "GN",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/GN.png"
+        },
+        {
+            "name": "GY",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/GY.png"
+        },
+        {
+            "name": "IR",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/IR.png"
+        },
+        {
+            "name": "KM",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/KM.png"
+        },
+        {
+            "name": "IE",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/IE.png"
+        },
+        {
+            "name": "KZ",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/KZ.png"
+        },
+        {
+            "name": "RO",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/RO.png"
+        },
+        {
+            "name": "SK",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/SK.png"
+        },
+        {
+            "name": "PG",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/PG.png"
+        },
+        {
+            "name": "PT",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/PT.png"
+        },
+        {
+            "name": "SO",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/SO.png"
+        },
+        {
+            "name": "HR",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/HR.png"
+        },
+        {
+            "name": "KI",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/KI.png"
+        },
+        {
+            "name": "JM",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/JM.png"
+        },
+        {
+            "name": "EC",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/EC.png"
+        },
+        {
+            "name": "ET",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/ET.png"
+        },
+        {
+            "name": "KH",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/KH.png"
+        },
+        {
+            "name": "SY",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/SY.png"
+        },
+        {
+            "name": "SN",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/SN.png"
+        },
+        {
+            "name": "PW",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/PW.png"
+        },
+        {
+            "name": "SL",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/SL.png"
+        },
+        {
+            "name": "FM",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/FM.png"
+        },
+        {
+            "name": "DE",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/DE.png"
+        },
+        {
+            "name": "GH",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/GH.png"
+        },
+        {
+            "name": "JO",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/JO.png"
+        },
+        {
+            "name": "IT",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/IT.png"
+        },
+        {
+            "name": "PA",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/PA.png"
+        },
+        {
+            "name": "SZ",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/SZ.png"
+        },
+        {
+            "name": "SM",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/SM.png"
+        },
+        {
+            "name": "TN",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/TN.png"
+        },
+        {
+            "name": "ML",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/ML.png"
+        },
+        {
+            "name": "CG",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/CG.png"
+        },
+        {
+            "name": "AO",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/AO.png"
+        },
+        {
+            "name": "BT",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/BT.png"
+        },
+        {
+            "name": "BB",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/BB.png"
+        },
+        {
+            "name": "CF",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/CF.png"
+        },
+        {
+            "name": "MM",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/MM.png"
+        },
+        {
+            "name": "LI",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/LI.png"
+        },
+        {
+            "name": "NA",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/NA.png"
+        },
+        {
+            "name": "MZ",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/MZ.png"
+        },
+        {
+            "name": "TO",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/TO.png"
+        },
+        {
+            "name": "VE",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/VE.png"
+        },
+        {
+            "name": "TZ",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/TZ.png"
+        },
+        {
+            "name": "TM",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/TM.png"
+        },
+        {
+            "name": "MX",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/MX.png"
+        },
+        {
+            "name": "LK",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/LK.png"
+        },
+        {
+            "name": "CD",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/CD.png"
+        },
+        {
+            "name": "AL",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/AL.png"
+        },
+        {
+            "name": "BW",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/BW.png"
+        },
+        {
+            "name": "CR",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/CR.png"
+        },
+        {
+            "name": "AM",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/AM.png"
+        },
+        {
+            "name": "AZ",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/AZ.png"
+        },
+        {
+            "name": "BA",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/BA.png"
+        },
+        {
+            "name": "MN",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/MN.png"
+        },
+        {
+            "name": "MY",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/MY.png"
+        },
+        {
+            "name": "TL",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/TL.png"
+        },
+        {
+            "name": "WS",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/WS.png"
+        },
+        {
+            "name": "TH",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/TH.png"
+        },
+        {
+            "name": "LY",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/LY.png"
+        },
+        {
+            "name": "BR",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/BR.png"
+        },
+        {
+            "name": "CV",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/CV.png"
+        },
+        {
+            "name": "BE",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/BE.png"
+        },
+        {
+            "name": "CA",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/CA.png"
+        },
+        {
+            "name": "BD",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/BD.png"
+        },
+        {
+            "name": "BS",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/BS.png"
+        },
+        {
+            "name": "NG",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/NG.png"
+        },
+        {
+            "name": "MK",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/MK.png"
+        },
+        {
+            "name": "NP",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/NP.png"
+        },
+        {
+            "name": "VA",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/VA.png"
+        },
+        {
+            "name": "UZ",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/UZ.png"
+        },
+        {
+            "name": "VC",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/VC.png"
+        },
+        {
+            "name": "ZW",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/ZW.png"
+        },
+        {
+            "name": "NR",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/NR.png"
+        },
+        {
+            "name": "NE",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/NE.png"
+        },
+        {
+            "name": "CU",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/CU.png"
+        },
+        {
+            "name": "BF",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/BF.png"
+        },
+        {
+            "name": "BG",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/BG.png"
+        },
+        {
+            "name": "MH",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/MH.png"
+        },
+        {
+            "name": "ZA",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/ZA.png"
+        },
+        {
+            "name": "UY",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/UY.png"
+        },
+        {
+            "name": "VU",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/VU.png"
+        },
+        {
+            "name": "TJ",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flag-icon/TJ.png"
+        }
+    ]
+}

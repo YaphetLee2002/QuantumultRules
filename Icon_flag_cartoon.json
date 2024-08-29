@@ -1,0 +1,1052 @@
+{
+    "name": "Yaphet Icon",
+
+    "description": "@YaphetLee2002的自用Quantumult X 图标集",
+
+    "icons": [
+        {
+            "name": "samoa",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/samoa.png"
+        },
+        {
+            "name": "kenya",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/kenya.png"
+        },
+        {
+            "name": "afghanistan",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/afghanistan.png"
+        },
+        {
+            "name": "russia",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/russia.png"
+        },
+        {
+            "name": "guatemala",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/guatemala.png"
+        },
+        {
+            "name": "bolivia",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/bolivia.png"
+        },
+        {
+            "name": "st-lucia",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/st-lucia.png"
+        },
+        {
+            "name": "ghana",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/ghana.png"
+        },
+        {
+            "name": "hungary",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/hungary.png"
+        },
+        {
+            "name": "democratic-republic-of-congo",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/democratic-republic-of-congo.png"
+        },
+        {
+            "name": "ceuta",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/ceuta.png"
+        },
+        {
+            "name": "iceland",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/iceland.png"
+        },
+        {
+            "name": "south-sudan",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/south-sudan.png"
+        },
+        {
+            "name": "poland",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/poland.png"
+        },
+        {
+            "name": "china",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/china.png"
+        },
+        {
+            "name": "argentina",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/argentina.png"
+        },
+        {
+            "name": "cape-verde",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/cape-verde.png"
+        },
+        {
+            "name": "kazakhstan",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/kazakhstan.png"
+        },
+        {
+            "name": "guernsey",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/guernsey.png"
+        },
+        {
+            "name": "venezuela",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/venezuela.png"
+        },
+        {
+            "name": "liberia",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/liberia.png"
+        },
+        {
+            "name": "colombia",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/colombia.png"
+        },
+        {
+            "name": "british-indian-ocean-territory",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/british-indian-ocean-territory.png"
+        },
+        {
+            "name": "iran",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/iran.png"
+        },
+        {
+            "name": "namibia",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/namibia.png"
+        },
+        {
+            "name": "nato",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/nato.png"
+        },
+        {
+            "name": "tanzania",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/tanzania.png"
+        },
+        {
+            "name": "flag",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/flag.png"
+        },
+        {
+            "name": "jamaica",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/jamaica.png"
+        },
+        {
+            "name": "saudi-arabia",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/saudi-arabia.png"
+        },
+        {
+            "name": "zambia",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/zambia.png"
+        },
+        {
+            "name": "cambodia",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/cambodia.png"
+        },
+        {
+            "name": "tibet",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/tibet.png"
+        },
+        {
+            "name": "djibouti",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/djibouti.png"
+        },
+        {
+            "name": "angola",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/angola.png"
+        },
+        {
+            "name": "lesotho",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/lesotho.png"
+        },
+        {
+            "name": "scotland",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/scotland.png"
+        },
+        {
+            "name": "sint-maarten",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/sint-maarten.png"
+        },
+        {
+            "name": "tunisia",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/tunisia.png"
+        },
+        {
+            "name": "ukraine",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/ukraine.png"
+        },
+        {
+            "name": "guinea",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/guinea.png"
+        },
+        {
+            "name": "aland-islands",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/aland-islands.png"
+        },
+        {
+            "name": "estonia",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/estonia.png"
+        },
+        {
+            "name": "sao-tome-and-prince",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/sao-tome-and-prince.png"
+        },
+        {
+            "name": "laos",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/laos.png"
+        },
+        {
+            "name": "kyrgyzstan",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/kyrgyzstan.png"
+        },
+        {
+            "name": "tajikistan",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/tajikistan.png"
+        },
+        {
+            "name": "cuba",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/cuba.png"
+        },
+        {
+            "name": "kosovo",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/kosovo.png"
+        },
+        {
+            "name": "cocos-island",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/cocos-island.png"
+        },
+        {
+            "name": "greenland",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/greenland.png"
+        },
+        {
+            "name": "algeria",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/algeria.png"
+        },
+        {
+            "name": "united-nations",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/united-nations.png"
+        },
+        {
+            "name": "curacao",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/curacao.png"
+        },
+        {
+            "name": "aruba",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/aruba.png"
+        },
+        {
+            "name": "somaliland",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/somaliland.png"
+        },
+        {
+            "name": "rwanda",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/rwanda.png"
+        },
+        {
+            "name": "cook-islands",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/cook-islands.png"
+        },
+        {
+            "name": "honduras",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/honduras.png"
+        },
+        {
+            "name": "armenia",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/armenia.png"
+        },
+        {
+            "name": "kiribati",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/kiribati.png"
+        },
+        {
+            "name": "niue",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/niue.png"
+        },
+        {
+            "name": "british-virgin-islands",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/british-virgin-islands.png"
+        },
+        {
+            "name": "south-korea",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/south-korea.png"
+        },
+        {
+            "name": "taiwan",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/taiwan.png"
+        },
+        {
+            "name": "virgin-islands",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/virgin-islands.png"
+        },
+        {
+            "name": "guam",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/guam.png"
+        },
+        {
+            "name": "east-timor",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/east-timor.png"
+        },
+        {
+            "name": "puerto-rico",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/puerto-rico.png"
+        },
+        {
+            "name": "rapa-nui",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/rapa-nui.png"
+        },
+        {
+            "name": "republic-of-the-congo",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/republic-of-the-congo.png"
+        },
+        {
+            "name": "turkey",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/turkey.png"
+        },
+        {
+            "name": "monaco",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/monaco.png"
+        },
+        {
+            "name": "french-polynesia",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/french-polynesia.png"
+        },
+        {
+            "name": "australia",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/australia.png"
+        },
+        {
+            "name": "sierra-leone",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/sierra-leone.png"
+        },
+        {
+            "name": "cameroon",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/cameroon.png"
+        },
+        {
+            "name": "nepal",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/nepal.png"
+        },
+        {
+            "name": "balearic-islands",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/balearic-islands.png"
+        },
+        {
+            "name": "england",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/england.png"
+        },
+        {
+            "name": "gibraltar",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/gibraltar.png"
+        },
+        {
+            "name": "isle-of-man",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/isle-of-man.png"
+        },
+        {
+            "name": "czech-republic",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/czech-republic.png"
+        },
+        {
+            "name": "sweden",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/sweden.png"
+        },
+        {
+            "name": "burundi",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/burundi.png"
+        },
+        {
+            "name": "seychelles",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/seychelles.png"
+        },
+        {
+            "name": "moldova",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/moldova.png"
+        },
+        {
+            "name": "belgium",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/belgium.png"
+        },
+        {
+            "name": "pitcairn-islands",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/pitcairn-islands.png"
+        },
+        {
+            "name": "brazil",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/brazil.png"
+        },
+        {
+            "name": "mozambique",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/mozambique.png"
+        },
+        {
+            "name": "benin",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/benin.png"
+        },
+        {
+            "name": "greece",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/greece.png"
+        },
+        {
+            "name": "andorra",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/andorra.png"
+        },
+        {
+            "name": "british-columbia",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/british-columbia.png"
+        },
+        {
+            "name": "ecuador",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/ecuador.png"
+        },
+        {
+            "name": "gabon",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/gabon.png"
+        },
+        {
+            "name": "libya",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/libya.png"
+        },
+        {
+            "name": "sicily",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/sicily.png"
+        },
+        {
+            "name": "syria",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/syria.png"
+        },
+        {
+            "name": "burkina-faso",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/burkina-faso.png"
+        },
+        {
+            "name": "sahrawi-arab-democratic-republic",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/sahrawi-arab-democratic-republic.png"
+        },
+        {
+            "name": "marshall-island",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/marshall-island.png"
+        },
+        {
+            "name": "tonga",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/tonga.png"
+        },
+        {
+            "name": "montserrat",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/montserrat.png"
+        },
+        {
+            "name": "sint-eustatius",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/sint-eustatius.png"
+        },
+        {
+            "name": "christmas-island",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/christmas-island.png"
+        },
+        {
+            "name": "montenegro",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/montenegro.png"
+        },
+        {
+            "name": "bermuda",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/bermuda.png"
+        },
+        {
+            "name": "grenada",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/grenada.png"
+        },
+        {
+            "name": "madagascar",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/madagascar.png"
+        },
+        {
+            "name": "northern-cyprus",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/northern-cyprus.png"
+        },
+        {
+            "name": "north-korea",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/north-korea.png"
+        },
+        {
+            "name": "senegal",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/senegal.png"
+        },
+        {
+            "name": "oman",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/oman.png"
+        },
+        {
+            "name": "malaysia",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/malaysia.png"
+        },
+        {
+            "name": "papua-new-guinea",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/papua-new-guinea.png"
+        },
+        {
+            "name": "comoros",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/comoros.png"
+        },
+        {
+            "name": "panama",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/panama.png"
+        },
+        {
+            "name": "costa-rica",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/costa-rica.png"
+        },
+        {
+            "name": "switzerland",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/switzerland.png"
+        },
+        {
+            "name": "corsica",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/corsica.png"
+        },
+        {
+            "name": "equatorial-guinea",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/equatorial-guinea.png"
+        },
+        {
+            "name": "tuvalu-1",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/tuvalu-1.png"
+        },
+        {
+            "name": "saint-kitts-and-nevis",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/saint-kitts-and-nevis.png"
+        },
+        {
+            "name": "nigeria",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/nigeria.png"
+        },
+        {
+            "name": "trinidad-and-tobago",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/trinidad-and-tobago.png"
+        },
+        {
+            "name": "canary-islands",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/canary-islands.png"
+        },
+        {
+            "name": "dominican-republic",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/dominican-republic.png"
+        },
+        {
+            "name": "melilla",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/melilla.png"
+        },
+        {
+            "name": "transnistria",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/transnistria.png"
+        },
+        {
+            "name": "azores-islands",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/azores-islands.png"
+        },
+        {
+            "name": "bosnia-and-herzegovina",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/bosnia-and-herzegovina.png"
+        },
+        {
+            "name": "micronesia",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/micronesia.png"
+        },
+        {
+            "name": "anguilla",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/anguilla.png"
+        },
+        {
+            "name": "republic-of-macedonia",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/republic-of-macedonia.png"
+        },
+        {
+            "name": "canada",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/canada.png"
+        },
+        {
+            "name": "cayman-islands",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/cayman-islands.png"
+        },
+        {
+            "name": "united-kingdom",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/united-kingdom.png"
+        },
+        {
+            "name": "yemen",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/yemen.png"
+        },
+        {
+            "name": "gambia",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/gambia.png"
+        },
+        {
+            "name": "madeira",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/madeira.png"
+        },
+        {
+            "name": "togo",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/togo.png"
+        },
+        {
+            "name": "tokelau",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/tokelau.png"
+        },
+        {
+            "name": "pakistan",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/pakistan.png"
+        },
+        {
+            "name": "hong-kong",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/hong-kong.png"
+        },
+        {
+            "name": "solomon-islands",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/solomon-islands.png"
+        },
+        {
+            "name": "bulgaria",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/bulgaria.png"
+        },
+        {
+            "name": "mauritania",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/mauritania.png"
+        },
+        {
+            "name": "qatar",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/qatar.png"
+        },
+        {
+            "name": "azerbaijan",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/azerbaijan.png"
+        },
+        {
+            "name": "germany",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/germany.png"
+        },
+        {
+            "name": "bhutan",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/bhutan.png"
+        },
+        {
+            "name": "united-arab-emirates",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/united-arab-emirates.png"
+        },
+        {
+            "name": "maldives",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/maldives.png"
+        },
+        {
+            "name": "somalia",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/somalia.png"
+        },
+        {
+            "name": "galapagos-islands",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/galapagos-islands.png"
+        },
+        {
+            "name": "antigua-and-barbuda",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/antigua-and-barbuda.png"
+        },
+        {
+            "name": "austria",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/austria.png"
+        },
+        {
+            "name": "uganda",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/uganda.png"
+        },
+        {
+            "name": "guinea-bissau",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/guinea-bissau.png"
+        },
+        {
+            "name": "sudan",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/sudan.png"
+        },
+        {
+            "name": "macao",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/macao.png"
+        },
+        {
+            "name": "latvia",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/latvia.png"
+        },
+        {
+            "name": "israel",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/israel.png"
+        },
+        {
+            "name": "haiti",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/haiti.png"
+        },
+        {
+            "name": "turkmenistan",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/turkmenistan.png"
+        },
+        {
+            "name": "nicaragua",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/nicaragua.png"
+        },
+        {
+            "name": "south-africa",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/south-africa.png"
+        },
+        {
+            "name": "martinique",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/martinique.png"
+        },
+        {
+            "name": "myanmar",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/myanmar.png"
+        },
+        {
+            "name": "portugal",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/portugal.png"
+        },
+        {
+            "name": "mauritius",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/mauritius.png"
+        },
+        {
+            "name": "central-african-republic",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/central-african-republic.png"
+        },
+        {
+            "name": "saba-island",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/saba-island.png"
+        },
+        {
+            "name": "tuvalu",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/tuvalu.png"
+        },
+        {
+            "name": "spain",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/spain.png"
+        },
+        {
+            "name": "basque-country",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/basque-country.png"
+        },
+        {
+            "name": "paraguay",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/paraguay.png"
+        },
+        {
+            "name": "luxembourg",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/luxembourg.png"
+        },
+        {
+            "name": "bahrain",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/bahrain.png"
+        },
+        {
+            "name": "mongolia",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/mongolia.png"
+        },
+        {
+            "name": "american-samoa",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/american-samoa.png"
+        },
+        {
+            "name": "suriname",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/suriname.png"
+        },
+        {
+            "name": "mali",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/mali.png"
+        },
+        {
+            "name": "serbia",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/serbia.png"
+        },
+        {
+            "name": "bangladesh",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/bangladesh.png"
+        },
+        {
+            "name": "dominica",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/dominica.png"
+        },
+        {
+            "name": "san-marino",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/san-marino.png"
+        },
+        {
+            "name": "france",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/france.png"
+        },
+        {
+            "name": "thailand",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/thailand.png"
+        },
+        {
+            "name": "kuwait",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/kuwait.png"
+        },
+        {
+            "name": "zimbabwe",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/zimbabwe.png"
+        },
+        {
+            "name": "italy",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/italy.png"
+        },
+        {
+            "name": "ossetia",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/ossetia.png"
+        },
+        {
+            "name": "new-zealand",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/new-zealand.png"
+        },
+        {
+            "name": "brunei",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/brunei.png"
+        },
+        {
+            "name": "liechtenstein",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/liechtenstein.png"
+        },
+        {
+            "name": "falkland-islands",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/falkland-islands.png"
+        },
+        {
+            "name": "jersey",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/jersey.png"
+        },
+        {
+            "name": "ivory-coast",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/ivory-coast.png"
+        },
+        {
+            "name": "chad",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/chad.png"
+        },
+        {
+            "name": "eritrea",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/eritrea.png"
+        },
+        {
+            "name": "palau",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/palau.png"
+        },
+        {
+            "name": "denmark",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/denmark.png"
+        },
+        {
+            "name": "uk",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/uk.png"
+        },
+        {
+            "name": "belarus",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/belarus.png"
+        },
+        {
+            "name": "barbados",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/barbados.png"
+        },
+        {
+            "name": "philippines",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/philippines.png"
+        },
+        {
+            "name": "albania",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/albania.png"
+        },
+        {
+            "name": "singapore",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/singapore.png"
+        },
+        {
+            "name": "lebanon",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/lebanon.png"
+        },
+        {
+            "name": "india",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/india.png"
+        },
+        {
+            "name": "peru",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/peru.png"
+        },
+        {
+            "name": "ethiopia",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/ethiopia.png"
+        },
+        {
+            "name": "netherlands",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/netherlands.png"
+        },
+        {
+            "name": "georgia",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/georgia.png"
+        },
+        {
+            "name": "bahamas",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/bahamas.png"
+        },
+        {
+            "name": "swaziland",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/swaziland.png"
+        },
+        {
+            "name": "palestine",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/palestine.png"
+        },
+        {
+            "name": "iraq",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/iraq.png"
+        },
+        {
+            "name": "bonaire",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/bonaire.png"
+        },
+        {
+            "name": "norfolk-island",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/norfolk-island.png"
+        },
+        {
+            "name": "turks-and-caicos",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/turks-and-caicos.png"
+        },
+        {
+            "name": "sri-lanka",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/sri-lanka.png"
+        },
+        {
+            "name": "vanuatu",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/vanuatu.png"
+        },
+        {
+            "name": "croatia",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/croatia.png"
+        },
+        {
+            "name": "malawi",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/malawi.png"
+        },
+        {
+            "name": "hawaii",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/hawaii.png"
+        },
+        {
+            "name": "vatican-city",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/vatican-city.png"
+        },
+        {
+            "name": "jordan",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/jordan.png"
+        },
+        {
+            "name": "fiji",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/fiji.png"
+        },
+        {
+            "name": "egypt",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/egypt.png"
+        },
+        {
+            "name": "st-barts",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/st-barts.png"
+        },
+        {
+            "name": "niger",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/niger.png"
+        },
+        {
+            "name": "wales",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/wales.png"
+        },
+        {
+            "name": "japan",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/japan.png"
+        },
+        {
+            "name": "vietnam",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/vietnam.png"
+        },
+        {
+            "name": "malta",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/malta.png"
+        },
+        {
+            "name": "uruguay",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/uruguay.png"
+        },
+        {
+            "name": "ireland",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/ireland.png"
+        },
+        {
+            "name": "uzbekistan",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/uzbekistan.png"
+        },
+        {
+            "name": "finland",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/finland.png"
+        },
+        {
+            "name": "northern-mariana-islands",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/northern-mariana-islands.png"
+        },
+        {
+            "name": "european-union",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/european-union.png"
+        },
+        {
+            "name": "st-vincent-and-the-grenadines",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/st-vincent-and-the-grenadines.png"
+        },
+        {
+            "name": "romania",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/romania.png"
+        },
+        {
+            "name": "lithuania",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/lithuania.png"
+        },
+        {
+            "name": "slovenia",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/slovenia.png"
+        },
+        {
+            "name": "slovakia",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/slovakia.png"
+        },
+        {
+            "name": "nauru",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/nauru.png"
+        },
+        {
+            "name": "indonesia",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/indonesia.png"
+        },
+        {
+            "name": "chile",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/chile.png"
+        },
+        {
+            "name": "mexico",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/mexico.png"
+        },
+        {
+            "name": "sardinia",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/sardinia.png"
+        },
+        {
+            "name": "el-salvador",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/el-salvador.png"
+        },
+        {
+            "name": "norway",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/norway.png"
+        },
+        {
+            "name": "botswana",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/botswana.png"
+        },
+        {
+            "name": "morocco",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/morocco.png"
+        },
+        {
+            "name": "united-states",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/united-states.png"
+        },
+        {
+            "name": "belize",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Flags/belize.png"
+        }
+    ]
+}
