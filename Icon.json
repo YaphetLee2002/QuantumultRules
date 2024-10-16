@@ -20,5 +20,9 @@
             "name": "gemini",
             "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/Gemini.png"
         }
+        {
+            "name": "westdata",
+            "url": "https://raw.githubusercontent.com/YaphetLee2002/QuantumultRules/main/Icon/WestData.png"
+        }
     ]
 }
